@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sacred vow and covenant taken by the Lords and Commons assembled in Parliament: upon the discovery of the late horrid and treacherous designe, for the destruction of this Parliament, and the kingdom. Together with the names of those members of the House of Commons which have taken the said vow and covenant. Also another vow and covenant to be taken by the armies and kingdom. Ordered by the Commons in Parliament, that the vow and covenant taken by the members of this House shall be printed, and the names of such members likewise that took the same: and also the vow and covenant to be taken by the armies and kingdoms. H. Elsynge Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83475</idno>
+            <idno type="STC">Wing E2284</idno>
+            <idno type="STC">Thomason E105_26</idno>
+            <idno type="STC">ESTC R2093</idno>
+            <idno type="EEBO-CITATION">99868183</idno>
+            <idno type="PROQUEST">99868183</idno>
+            <idno type="VID">155971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155971)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sacred vow and covenant taken by the Lords and Commons assembled in Parliament: upon the discovery of the late horrid and treacherous designe, for the destruction of this Parliament, and the kingdom. Together with the names of those members of the House of Commons which have taken the said vow and covenant. Also another vow and covenant to be taken by the armies and kingdom. Ordered by the Commons in Parliament, that the vow and covenant taken by the members of this House shall be printed, and the names of such members likewise that took the same: and also the vow and covenant to be taken by the armies and kingdoms. H. Elsynge Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, ad [sic] are to be sold at his shop in the Middle Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 12. MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loyalty oaths --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155971:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>A SACRED Vow and Covenant TAKEN By the Lords and Commons <hi>aſſembled in Parliament:</hi> Upon the diſcovery of the late horrid and Trea<g ref="char:EOLhyphen"/>cherous Deſigne, for the deſtruction of this Parliament, and the Kingdom.</p>
+            <p>
+               <hi>Together with the Names of thoſe Members of the Houſe of</hi> COMMONS <hi>which have taken the ſaid</hi> Vow <hi>and</hi> COVENANT.</p>
+            <p>Alſo another Vow and COVENANT to be <hi>taken by the</hi> Armies <hi>and</hi> Kingdom.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That the Vow and Covenant taken by the Members of this Houſe ſhall be Printed, and the names of ſuch Members likewiſe that took the ſame: And alſo the Vow and Co<g ref="char:EOLhyphen"/>nant to be taken by the Armies and Kingdoms.</p>
+                        <closer>
+                           <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON: Printed for <hi>Edward Husbands,</hi> ad are to be ſold at his Shop in the Middle Temple. June 12. MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oath">
+            <pb facs="tcp:155971:2"/>
+            <!-- PDF PAGE 102 -->
+            <pb n="1" facs="tcp:155971:2"/>
+            <!-- PDF PAGE 102 -->
+            <opener>
+               <dateline>
+                  <date>Die Martis 6 Junii 1643.</date>
+               </dateline>
+            </opener>
+            <head>This Oath and Covenant was taken <hi>by the Lords and Commons.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there hath been, and now is, in this Kingdom, a Popiſh and Traiterous Plot, for the ſubverſion of the true Proteſtant Reformed Religion, and the Liberty of the Subject. And in purſuance thereof a Popiſh Army hath been raiſed, and is now on foot in di<g ref="char:EOLhyphen"/>vers parts of this Kingdom: And whereas there hath been a Treacherous and horrid deſigne lately diſcovered, by the great bleſſing and eſpeciall providence of God, of divers perſons, to joyn themſelves with the Armies raiſed by the King, and to deſtroy the Forces raiſed by the Lords and Commons in Parliament, to ſurpriſe the Ci<g ref="char:EOLhyphen"/>ties of <hi>London</hi> and <hi>Weſtminſter</hi> with the Suburbs, by Arms to force the Parliament, and finding by conſtant experi<g ref="char:EOLhyphen"/>ence, That many wayes of Force and Treachery are con<g ref="char:EOLhyphen"/>tinually attempted to bring to utter ruine and deſtruction the Parliament and Kingdom; and that which is deareſt, The true Proteſtant Religion; and that for the prevent<g ref="char:EOLhyphen"/>ing and withſtanding the ſame, it is fit, That all who are true hearted and Lovers of their Countrey, ſhould binde themſelves each to other in a ſacred Vow and Covenant.</p>
+            <p>I A. B. In humility and reverence of the Divine Ma<g ref="char:EOLhyphen"/>jeſtie, declare my hearty ſorrow for my own ſins, and the ſins of this nation, which have deſerved the Calami<g ref="char:EOLhyphen"/>ties and Judgements that now lies upon it: And my
+<pb facs="tcp:155971:3"/>
+               <!-- PDF PAGE 105 -->
+               <pb n="1" facs="tcp:155971:3"/>
+               <!-- PDF PAGE 105 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:155971:4"/>
+               <!-- PDF PAGE 104 -->true intention is, by Gods grace, to indeavour the amend<g ref="char:EOLhyphen"/>ment of my own wayes. And I do further in the pre<g ref="char:EOLhyphen"/>ſence of Almighty God Declare, Vow, and Covenant, That in order to the ſecurity and preſervation of the true Reformed Proteſtant Religion, and Liberty of the Subject, I will not conſent to the laying down of Arms ſo long as the Papiſts now in open Warre againſt the Parliament, ſhall by force of Arms be protected from the Juſtice thereof; And that I do abhot and deteſt the ſaid wicked and treacherous Deſigne lately diſcovered; And that I never gave, nor will give my aſſent to the ex<g ref="char:EOLhyphen"/>ecution thereof, but will according to my power and vo<g ref="char:EOLhyphen"/>cation oppoſe and reſiſt the ſame, and all other of the like nature: And in caſe any other like Deſigne ſhall here<g ref="char:EOLhyphen"/>after come to my knowledge, I will make ſuch timely diſcovery as I ſhall conceive may beſt conduce to the preventing thereof. And whereas I do in my conſci<g ref="char:EOLhyphen"/>ence believe, That the Forces raiſed by the two Houſes of Parliament, are raiſed and continued for their juſt de<g ref="char:EOLhyphen"/>fence, and for the defence of the true Proteſtant Religion, and Libertie of the Subject, againſt the Forces raiſed by the King; that I will, according to my power and Voca<g ref="char:EOLhyphen"/>tion, aſſiſt the Forces raiſed and continued by both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, againſt the Forces raiſed by the King without their conſent: And will likewiſe, aſſiſt all other perſons that ſhall take this Oath, in what they ſhall do in purſuance thereof, and will not directly or indirectly ad<g ref="char:EOLhyphen"/>here unto, nor ſhall willingly aſſiſt the Forces raiſed by the King, without the conſent of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment. And this Vow and Covenant I make in the pre<g ref="char:EOLhyphen"/>ſence of Almighty God, the ſearcher of all hearts, with a true intention to perform the ſame, as I ſhall anſwer at the great day, when the ſecrets of all hearts ſhall be diſ<g ref="char:EOLhyphen"/>cloſed.</p>
+         </div>
+         <div type="names_of_oath-takers">
+            <pb n="3" facs="tcp:155971:4"/>
+            <!-- PDF PAGE 106 -->
+            <head>The Names of thoſe Members of the Houſe of Commons, that have taken the new Oath, and Covenant Agreed on. 6 <hi>June.</hi> 1643.</head>
+            <p>
+               <hi>MAſter</hi> Speaker, <hi>Maſter</hi> White, <hi>Sir</hi> Robert Harley, <hi>Sir</hi> Nevill Pool, <hi>Sir</hi> Robert Pye, <hi>Sir</hi> Thomas Cheek, <hi>Sir</hi> Oliver Luke, <hi>Sir</hi> Beauchamp Saint-John, <hi>Mr.</hi> Oldſworth, <hi>Sir</hi> Will. Armyn, <hi>Mr.</hi> Pym, <hi>Sir</hi> Henry Vane, <hi>Jun. Sir</hi> Benjamin Rudyard, <hi>Sir</hi> Arthur Haſlerigg, <hi>Sir</hi> Gilbert Gerrard, <hi>Mr.</hi> Sollicitor, <hi>Mr.</hi> Hatcher, <hi>Lord</hi> Ruthen, <hi>Mr</hi> Samuel Brown, <hi>Mr.</hi> Valentine, <hi>Sir</hi> Harbotle Grimſton, <hi>Colonell</hi> Jo. More, <hi>Mr.</hi> Jenner, <hi>Sir</hi> John Evelyn <hi>Jun. Mr.</hi> Hollis, <hi>Mr.</hi> Downs, <hi>Mr.</hi> Blackiſton, <hi>Sir</hi> Thomas Dacres, <hi>Sir</hi> John Wray, <hi>Mr.</hi> Brown <hi>of</hi> Kent, <hi>Sir</hi> Henry Anderſon, <hi>Mr.</hi> Barwis, <hi>Sir</hi> Peter Wroth, <hi>Mr.</hi> Cecill, <hi>Mr.</hi> Scowen, <hi>Mr.</hi> Bainton, <hi>Mr.</hi> Corbet, <hi>Sir</hi> John Harriſon, <hi>Mr.</hi> Brett, <hi>Sir</hi> Chriſtopher Yelverton, <hi>Mr.</hi> John Harvey, <hi>Mr.</hi> Harbotle Grimſton, <hi>Mr.</hi> John Selden, <hi>Sir</hi> John Clotworthy, <hi>Mr.</hi> Peirpoint, <hi>Sir</hi> Ralph Ver<g ref="char:EOLhyphen"/>ner, <hi>Sir</hi> Henry Ch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmley, <hi>M.</hi> Edmund Dunche, <hi>M.</hi> John Glyn, <hi>Sir</hi> Will. Litton, <hi>M.</hi> Tr<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nchard, <hi>M.</hi> William Cage, <hi>Sir</hi> Simonds D'Ewes, <hi>M.</hi> Gilbert Millington, <hi>M.</hi> William Ellis, <hi>Sir</hi> Thomas Barrington, <hi>Sir</hi> Anthony Irby, <hi>Sir</hi> Thomas Jervais, <hi>M.</hi> Edward Dowſe, <hi>M.</hi> Hugh Rogers, <hi>Sir</hi> John Hippeſley, <hi>M. Serjeant</hi> Wild, <hi>Sir</hi> Dudley North, <hi>M.</hi> Lawrence Whitacre, <hi>Sir</hi> John Curſon, <hi>M.</hi> John Waſtall, <hi>M.</hi> Cor<g ref="char:EOLhyphen"/>nelius Holland, <hi>Colonell</hi> Walter Long, <hi>M.</hi> George Gallopp, <hi>M.</hi> Will. Bell, <hi>M.</hi> Skynner, <hi>M.</hi> John Naſh, <hi>M.</hi> James Cambell, <hi>Sir</hi> John Young, <hi>Sir</hi> Robert Parkburſt, <hi>M.</hi> Edward Exton, <hi>M.</hi> Edward Thomas, <hi>M.</hi> Harbert, <hi>M.</hi> Nathaniel Stevens, <hi>M.</hi> Moyle, <hi>M.</hi> Young, <hi>M.</hi> Michael Noble, <hi>M.</hi> William Whitacre, <hi>M.</hi> William Cawley, <hi>M.</hi> Jo. Harris, <hi>M.</hi> Thomas Lane, <hi>M.</hi> Owner, <hi>M.</hi> Edward Pool, <hi>M.</hi> Arthur Jones, <hi>M.</hi> Campion, <hi>M.</hi> Billſtrode Whitlock, <hi>M.</hi> Taylor, <hi>M.</hi> John Jepſon, <hi>Sir</hi> John Potts, <hi>M.</hi> Richard Lee, <hi>M.</hi> Thomas Sandis, <hi>M.</hi> Tho. Eden, <hi>M.</hi> Henry Lucas, <hi>M.</hi> Richard Harmon, <hi>M.</hi> John Liſte, <hi>M.</hi> Robert
+<pb n="4" facs="tcp:155971:5"/>
+               <!-- PDF PAGE 107 -->Goodwyn, <hi>M.</hi> William Aſhhurſt, <hi>M.</hi> Jo. Nutt, <hi>Sir</hi> Nath. Barnardi<g ref="char:EOLhyphen"/>ſton, <hi>M.</hi> Thomas Hoyle, <hi>M.</hi> John Gurdon, <hi>M.</hi> Robert Reynolds, <hi>M.</hi> Hen. Darley, <hi>M.</hi> Samuel Vaſſall, <hi>M.</hi> John Goodwyn, <hi>Sir</hi> Roger North, <hi>M.</hi> John Browa <hi>of Dorcetſhire, M.</hi> Richard Roſe, <hi>M.</hi> Giles Green, <hi>M.</hi> Thomas Moore, <hi>M.</hi> Edmund Prideaux, <hi>M.</hi> Roger Hill, <hi>M.</hi> Willii<g ref="char:EOLhyphen"/>am Strode, <hi>M.</hi> Dennis Bond, <hi>M.</hi> Edward Aſhe, <hi>M.</hi> Richard Moore, <hi>M.</hi> Louche Tate, <hi>M.</hi> Robert Nicholas, <hi>M.</hi> William Smith, <hi>M.</hi> Will. Spurſtoe, <hi>M.</hi> Framlingam Gawdy, <hi>Sir</hi> Alex. Denton, <hi>M.</hi> Lowry, <hi>M.</hi> Thomas Hodges, <hi>M.</hi> Humphry Salleway, <hi>Sir</hi> Peter Wentworth, <hi>M.</hi> Fountain, <hi>M.</hi> Jervaiſe, <hi>M.</hi> William Wheeler, <hi>M.</hi> Fitz-Williams, <hi>M.</hi> Richard Jennings, <hi>Sir</hi> Henry Ludlowe, <hi>Sir</hi> Edward Bainton, <hi>Sir</hi> Edward Littleton, <hi>M.</hi> Knightley, <hi>M.</hi> Francis Drake, <hi>M.</hi> Jeſſon, <hi>M.</hi> Henry Pelham, <hi>M.</hi> Thomas Earle, <hi>Sir</hi> George Stonchouſe, <hi>M.</hi> Mar<g ref="char:EOLhyphen"/>tin Liſter, <hi>Maſter</hi> Francis Rouſe, <hi>Maſter</hi> Ralph Aſhton, <hi>Maſter</hi> Henry Martin, <hi>Maſter</hi> John Roll, <hi>Sir</hi> John Dreydon, <hi>Maſter</hi> Philip Smith, <hi>Maſter</hi> Squire Bence, <hi>Maſter</hi> Peregrine Pelham, <hi>M.</hi> Anthony Bedingfield, <hi>M.</hi> Jo. Adured, <hi>Sir</hi> Jo. Corbett, Thomas <hi>Lord</hi> Wenman, <hi>Sir</hi> John Holland, <hi>Sir</hi> Henry Vane, <hi>Sen. M.</hi> George Mountague, <hi>M.</hi> James Finnes, <hi>Sir</hi> William Maſſam, <hi>Sir</hi> Henry Heyman, <hi>Sir</hi> Alexander Bence, <hi>Sir</hi> Thomas Middleton, <hi>M.</hi> Peregrin Hobby, <hi>M.</hi> Maynard, <hi>Sir</hi> Guy Palmes, <hi>Sir</hi> Norton Knatchball, <hi>Sir</hi> Philip Parker, <hi>Sir</hi> Wil. Playters, <hi>M.</hi> George Buller, <hi>M.</hi> Simond Snow, <hi>L.</hi> Cranborne, <hi>M.</hi> William Baſſet, <hi>Sir</hi> Richard Onſlow, <hi>Sir</hi> Edward Partriche, <hi>Sir</hi> Ambroſe Brown, <hi>M.</hi> Jo. Fettyplace, <hi>Sir</hi> Francis Knollis, <hi>M.</hi> Edward Wiagate, <hi>M.</hi> William Glanvile, <hi>Sir</hi> Jo. Coke, <hi>Sir</hi> Roger Burgoine, <hi>Sir</hi> Thomas Pelham, <hi>Sir</hi> John Francklyn, <hi>Sir</hi> Henry Mildmay, <hi>Sir</hi> Tho<g ref="char:EOLhyphen"/>mas Hutchinſon, <hi>M.</hi> Wynwood, <hi>Sir</hi> Thomas Soams.</p>
+         </div>
+         <div type="oath">
+            <pb n="5" facs="tcp:155971:5"/>
+            <!-- PDF PAGE 107 -->
+            <head>This Vow and Covenant to be taken by the Armies and Kingdoms.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons now aſ<g ref="char:EOLhyphen"/>ſembled in Parliament have Declared, That there hath been, and now is a Popiſh and trayterous Plot for the ſubverſion of the true Proteſtant Reformed Religion, and the Liberty of the Subject; And that in purſuance thereof, a Popiſh Army hath been raiſed, and is now on foot in divers parts of this Kingdom: And have further in a ſolemn manner Declared, Vowed, and Covenanted, That in order to the ſecurity and preſervation of the true Proteſtant Religion, and Liberty of the Subject, they will not conſent to the laying down Arms, ſo long as the Papiſts now in open Warre againſt the Parliament ſhall by force of Arms be protected from the Juſtice thereof. And whereas the Lords and Commons have declared, That there hath been a treacherous and horrid Deſigne lately diſcovered by the great bleſſing, and eſpe<g ref="char:EOLhyphen"/>ciall Providence of God, of divers perſons to joyn themſelves with the Armies raiſed by the KING, and to deſtroy the Forces raiſed by the Lords and Commons in Parliament, to ſurpriſe the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> with the Suburbs, and by Arms to force the Parliament: And the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons finding by conſtant experience, That many wayes of force and treachery are continually attempted, to bring to utter ruine and deſtruction the Parliament and King<g ref="char:EOLhyphen"/>dom, and that which is deareſt, The true Proteſtant Re<g ref="char:EOLhyphen"/>ligion: And that for the preventing, and withſtand<g ref="char:EOLhyphen"/>ing the ſame, they have thought fit, That all who are true hearted, and lovers of their Countrey, ſhould binde themſelves each to other in a ſacred Vow and Covenant, in manner and form as followeth, and accordingly.</p>
+            <p>
+               <pb n="6" facs="tcp:155971:6"/>
+               <!-- PDF PAGE 108 -->
+I <hi>A. B.</hi> In humility and reverence of the Divine Ma<g ref="char:EOLhyphen"/>jeſty, declare my hearty ſorrow for my own ſins, and the ſins of this Nation, which have deſerved the calami<g ref="char:EOLhyphen"/>ties and judgements that now lie upon it; And my true intention is, by Gods grace, to endeavour the amendment of my own wayes; And that I do abhorre and deteſt the ſaid wicked and treacherous deſigne lately diſcover<g ref="char:EOLhyphen"/>ed; And that I never gave, nor will give my aſſent to the execution thereof, but will, according to my power and vocation, oppoſe and reſiſt the ſame, and all other of the like nature: And in caſe any other Deſigne ſhall hereaf<g ref="char:EOLhyphen"/>ter come to my knowledg, I wil make ſuch timely diſco<g ref="char:EOLhyphen"/>very as I ſhall conceive may beſt conduce to the prevent<g ref="char:EOLhyphen"/>ing thereof. And whereas I do in my conſcience believe, That the Forces raiſed by the two Houſes of Parliament are raiſed and continued for their juſt deſeace, and for the defence of the true Proteſtant Religion, and Liberties of the Subject, againſt the Forces raiſed by the King; I do here, in the preſence of Almighty God, Declare, Vow, and Covenant, That I will according to my power and vocation, aſſiſt the Forces raiſed and continued by both Houſes of Parliament, againſt the Porces raiſed by the King without their conſent; And will likewiſe aſſiſt all other perſons that ſhall take this Oath, in what they do in purſuance thereof; And will not directly or indirect<g ref="char:EOLhyphen"/>ly adhere unto, nor ſhall willingly aſſiſt the Forces raiſed by the King without the conſent of both Houſes of Par<g ref="char:EOLhyphen"/>liament. And this Vow and Covenant I make in the preſence of Almighty God, the Searcher of all hearts, with a true intention to perform the ſame, as I ſhall an<g ref="char:EOLhyphen"/>ſwer at the great Day, when the ſecrets of all hearts ſhall be diſcloſed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
